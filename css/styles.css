@@ -12,6 +12,8 @@ h2{
 	float:left;
 }
 
+/* top section */
+
 .container{
 	width:1962px;
 	height:533px;
@@ -23,6 +25,14 @@ h2{
 
 }
 
+.rec {
+	width:1962px;
+	font-size:30px;
+	position: fixed;
+}
+
+/* main body */
+
 .two{
 	width:1962px;
 	height:371px;
@@ -31,12 +41,108 @@ h2{
 .column {
 	width:213px;
 	height:1500px;
-	background-color:grey;
+	/*background-color:grey;*/
 	float:left;
 	margin-right:5px;
 	margin-bottom:5px;
 }
 
+.text {
+	float:left;
+}
+
+
+/* The story */
+
+
+.storyone{
+	font-size:0px;
+	text-align:center;
+	width: 35px;
+	height: 35px;
+	opacity: 0.8;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	float: left;
+	margin-right: 3px;
+	-webkit-transition: -webkit-transform 850ms;
+    transition: transform 850ms;
+
+}
+
+.storyone:hover {
+   -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    font-size:7px;
+}
+
+/*TWO*/
+
+.storytwo{
+	width: 12px;
+	height: 12px;
+	opacity: 0.8;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	float: left;
+	margin-right: 3px;
+	-webkit-transition: -webkit-transform 850ms;
+    transition: transform 850ms;
+
+}
+
+.storytwo:hover {
+   -webkit-transform: scale(5.0);
+    transform: scale(5.0);
+}
+
+/*THREE*/
+
+.storythree{
+	width: 12px;
+	height: 12px;
+	opacity: 0.8;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	float: left;
+	margin-right: 3px;
+	-webkit-transition: -webkit-transform 850ms;
+    transition: transform 850ms;
+
+}
+
+/*FOUR*/
+
+.storyfour{
+	width: 12px;
+	height: 12px;
+	opacity: 0.8;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	float: left;
+	margin-right: 3px;
+	-webkit-transition: -webkit-transform 850ms;
+    transition: transform 850ms;
+
+}
+
+/*FIVE*/
+
+/*SIX*/
+
+/*SEVEN*/
+
+/*EIGHT*/
+
+/*NINE*/
+
+/*TEN*/
+
+/*ELEVEN*/
 
 .smallcircle {
 	width: 12px;
@@ -46,15 +152,15 @@ h2{
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
 	float: left;
-	margin-right: 5px;
+	margin-right: 3px;
 	-webkit-transition: -webkit-transform 850ms;
     transition: transform 850ms;
 
 }
 
 .smallcircle:hover {
-   -webkit-transform: scale(50);
-    transform: scale(50);
+   -webkit-transform: scale(5.0);
+    transform: scale(5.0);
 }
 
 .mediumcircle {
@@ -65,14 +171,14 @@ h2{
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
 	float: left;
-	margin-right: 5px;
+	margin-right: 3px;
 	-webkit-transition: -webkit-transform 850ms;
     transition: transform 850ms;
 }
 
 .mediumcircle:hover {
-   -webkit-transform: scale(50);
-    transform: scale(50);
+   -webkit-transform: scale(5.0);
+    transform: scale(5.0);
 }
 
 .largecircle {
@@ -83,7 +189,7 @@ h2{
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
 	float: left;
-	margin-right: 5px;
+	margin-right: 3px;
 	-webkit-transition: -webkit-transform 850ms;
     transition: transform 850ms;
 }
@@ -93,55 +199,60 @@ h2{
     transform: scale(20);
 }
 
+
+
+
+/* rows */
+
 .rowone{
 	width:50%;
 	height:214px;
 	margin: 0 auto;
-	background-color: red;
+	/*background-color: red;*/
 }
 
 .rowtwo{
 	width:50%;
 	height:214px;
 	margin: 0 auto;
-	background-color: orange;
+	/*background-color: orange;*/
 }
 .rowthree{
 	width:50%;
 	height:214px;
 	margin: 0 auto;
-	background-color: yellow;
+	/*background-color: yellow;*/
 }
 .rowfour{
 	width:50%;
 	height:214px;
 	margin: 0 auto;
-	background-color: green;
+	/*background-color: green;*/
 }
 .rowfive{
 	width:50%;
 	height:214px;
 	margin: 0 auto;
-	background-color: blue;
+	/*background-color: blue;*/
 }
 .rowsix{
 	width:50%;
 	height:214px;
 	margin: 0 auto;
-	background-color: purple;
+	/*background-color: purple;*/
 }
 .rowseven{
 	width:50%;
 	height:214px;
 	margin: 0 auto;
-	background-color: red;
+	/*background-color: red;*/
 }
 
-.rec {
-	width:1962px;
-	font-size:30px;
-	position: fixed;
-}
+
+
+/* bottom section */
+
+
 
 .rec2 {
 	width:1962px;

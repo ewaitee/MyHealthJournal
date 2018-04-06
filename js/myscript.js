@@ -1,10 +1,28 @@
 $(document).ready(function(){
-	$(".smallcircle").hide();
-$(".largecircle").show();
 
-$('.largecircle').click(function(){
-$(".smallcircle").slideToggle();
-});
+
+
+	$(".storyfour").hide();
+	$(".storythree").show();
+
+	$('.storythree').click(function(){
+	$(".storyfour").slideToggle();
+	});
+
     
+	$(".storythree").hide();
+	$(".storytwo").show();
 
-   });
+	$('.storytwo').click(function(){
+	$(".storythree").slideToggle();
+	});
+
+
+	$(".storytwo").hide();
+	$(".storyone").show();
+
+	$('.storyone').click(function(){
+	$(".storytwo").slideToggle();
+	});
+
+});
