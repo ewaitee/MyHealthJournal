@@ -156,19 +156,7 @@ top:-10px;
 
 
 
-.march13{
-	position:relative;
-	top:7px;
-	left:20%;
-	width:0px;
-	
-	
-}
 
-.storyone:hover >.march13{
-	width:20px;
-	
-}
 
 
 .text {
@@ -211,13 +199,13 @@ top:-10px;
 	float:left;
 	position:absolute;
 	margin-top:40px;
-	font-family:Verdana;
 	font-size:12px;
 }
 
-/*THREE*/
 
+/*THREE*/
 .storythree{
+	font-size:0px;
 	width: 12px;
 	height: 12px;
 	opacity: 0.8;
@@ -228,19 +216,17 @@ top:-10px;
 	margin-right: 3px;
 	-webkit-transition: -webkit-transform 1200ms;
     transition: transform 1200ms;
-    margin-top:20px;
-
+     margin-top:20px;
 }
 
 .storythree:hover {
-  transform: translate(0,-90px);
+	transform: translate(0,-90px);
    -webkit-transform: scale(7);
     transform: scale(7);
 }
 
+
 /*FOUR*/
-
-
 
 .storyfour{
 	font-size:0px;
@@ -272,13 +258,444 @@ top:-10px;
 
 /*SEVEN*/
 
+.storyseven{
+	width: 35px;
+	height: 35px;
+	opacity: 0.8;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	float: left;
+	margin-right: 3px;
+	-webkit-transition: -webkit-transform 1200ms;
+    transition: transform 1200ms;
+    margin-top:0px;
+   
+}
+
+.storyseven:hover {
+   -webkit-transform: scale(2.5);
+    transform: scale(2.5);
+}
+
+.textseven {
+	/*background-color:red;*/
+	width:150px;
+	float:left;
+	position:absolute;
+	margin-top:40px;
+	font-size:12px;
+
+}
+
 /*EIGHT*/
 
+
+.storyeight{
+	font-size:0px;
+	width: 12px;
+	height: 12px;
+	opacity: 0.8;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	float: left;
+	margin-right: 3px;
+	-webkit-transition: -webkit-transform 1200ms;
+    transition: transform 1200ms;
+     margin-top:20px;
+}
+
+.storyeight:hover {
+	transform: translate(0,-90px);
+   -webkit-transform: scale(7);
+    transform: scale(7);
+    
+}
+
 /*NINE*/
+.storynine{
+	font-size:0px;
+	width: 12px;
+	height: 12px;
+	opacity: 0.8;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	float: left;
+	margin-right: 3px;
+	-webkit-transition: -webkit-transform 1200ms;
+    transition: transform 1200ms;
+     margin-top:20px;
+}
+
+.storynine:hover {
+	transform: translate(0,-90px);
+   -webkit-transform: scale(7);
+    transform: scale(7);
+    
+}
 
 /*TEN*/
+.storyten{
+	font-size:0px;
+	width: 12px;
+	height: 12px;
+	opacity: 0.8;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	float: left;
+	margin-right: 3px;
+	-webkit-transition: -webkit-transform 1200ms;
+    transition: transform 1200ms;
+     margin-top:20px;
+}
+
+.storyten:hover {
+	transform: translate(0,-90px);
+   -webkit-transform: scale(7);
+    transform: scale(7);
+    
+}
 
 /*ELEVEN*/
+.storyeleven{
+	font-size:0px;
+	width: 12px;
+	height: 12px;
+	opacity: 0.8;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	float: left;
+	margin-right: 3px;
+	-webkit-transition: -webkit-transform 1200ms;
+    transition: transform 1200ms;
+     margin-top:20px;
+}
+
+.storyeleven:hover {
+	transform: translate(0,-90px);
+   -webkit-transform: scale(7);
+    transform: scale(7);
+    
+}
+
+
+/*TWELVE*/
+.storytwelve{
+	font-size:0px;
+	width: 12px;
+	height: 12px;
+	opacity: 0.8;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	float: left;
+	margin-right: 3px;
+	-webkit-transition: -webkit-transform 1200ms;
+    transition: transform 1200ms;
+     margin-top:20px;
+}
+
+.storytwelve:hover {
+	transform: translate(0,-90px);
+   -webkit-transform: scale(7);
+    transform: scale(7);
+    
+}
+
+/*THIRTEEN*/
+.storythirteen{
+	font-size:0px;
+	width: 12px;
+	height: 12px;
+	opacity: 0.8;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	float: left;
+	margin-right: 3px;
+	-webkit-transition: -webkit-transform 1200ms;
+    transition: transform 1200ms;
+     margin-top:20px;
+}
+
+.storythirteen:hover {
+	transform: translate(0,-90px);
+   -webkit-transform: scale(7);
+    transform: scale(7);
+    
+}
+
+
+/*FOURTEEN*/
+
+.storyfourteen{
+	font-size:0px;
+	width: 12px;
+	height: 12px;
+	opacity: 0.8;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	float: left;
+	margin-right: 3px;
+	-webkit-transition: -webkit-transform 1200ms;
+    transition: transform 1200ms;
+     margin-top:20px;
+}
+
+.storyfourteen:hover {
+	transform: translate(0,-90px);
+   -webkit-transform: scale(7);
+    transform: scale(7);
+    
+}
+
+/*FIFTEEN*/
+.storyfifteen{
+	font-size:0px;
+	width: 12px;
+	height: 12px;
+	opacity: 0.8;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	float: left;
+	margin-right: 3px;
+	-webkit-transition: -webkit-transform 1200ms;
+    transition: transform 1200ms;
+     margin-top:20px;
+}
+
+.storyfifteen:hover {
+	transform: translate(0,-90px);
+   -webkit-transform: scale(7);
+    transform: scale(7);
+    
+}
+/*SIXTEEN*/
+.storysixteen{
+	font-size:0px;
+	width: 12px;
+	height: 12px;
+	opacity: 0.8;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	float: left;
+	margin-right: 3px;
+	-webkit-transition: -webkit-transform 1200ms;
+    transition: transform 1200ms;
+     margin-top:20px;
+}
+
+.storysixteen:hover {
+	transform: translate(0,-90px);
+   -webkit-transform: scale(7);
+    transform: scale(7);
+    
+}
+/*SEVENTEEN*/
+.storyseventeen{
+	font-size:0px;
+	width: 12px;
+	height: 12px;
+	opacity: 0.8;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	float: left;
+	margin-right: 3px;
+	-webkit-transition: -webkit-transform 1200ms;
+    transition: transform 1200ms;
+     margin-top:20px;
+}
+
+.storyseventeen:hover {
+	transform: translate(0,-90px);
+   -webkit-transform: scale(7);
+    transform: scale(7);
+    
+}
+/*EIGHTEEN*/
+.storyeighteen{
+	font-size:0px;
+	width: 12px;
+	height: 12px;
+	opacity: 0.8;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	float: left;
+	margin-right: 3px;
+	-webkit-transition: -webkit-transform 1200ms;
+    transition: transform 1200ms;
+     margin-top:20px;
+}
+
+.storyeighteen:hover {
+	transform: translate(0,-90px);
+   -webkit-transform: scale(7);
+    transform: scale(7);
+}
+
+/*NINETEEN*/
+.storynineteen{
+	font-size:0px;
+	width: 12px;
+	height: 12px;
+	opacity: 0.8;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	float: left;
+	margin-right: 3px;
+	-webkit-transition: -webkit-transform 1200ms;
+    transition: transform 1200ms;
+     margin-top:20px;
+}
+
+.storynineteen:hover {
+	transform: translate(0,-90px);
+   -webkit-transform: scale(7);
+    transform: scale(7);
+}    
+
+/*TWENTY*/
+.storytwenty{
+	font-size:0px;
+	width: 12px;
+	height: 12px;
+	opacity: 0.8;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	float: left;
+	margin-right: 3px;
+	-webkit-transition: -webkit-transform 1200ms;
+    transition: transform 1200ms;
+     margin-top:20px;
+}
+
+.storytwenty:hover {
+	transform: translate(0,-90px);
+   -webkit-transform: scale(7);
+    transform: scale(7);
+}
+/*TWENTYONE*/
+.storytwentyone{
+	font-size:0px;
+	width: 12px;
+	height: 12px;
+	opacity: 0.8;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	float: left;
+	margin-right: 3px;
+	-webkit-transition: -webkit-transform 1200ms;
+    transition: transform 1200ms;
+     margin-top:20px;
+}
+
+.storytwentyone:hover {
+	transform: translate(0,-90px);
+   -webkit-transform: scale(7);
+    transform: scale(7);
+}
+
+/*TWENTYTWO*/
+.storytwentytwo{
+	font-size:0px;
+	width: 12px;
+	height: 12px;
+	opacity: 0.8;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	float: left;
+	margin-right: 3px;
+	-webkit-transition: -webkit-transform 1200ms;
+    transition: transform 1200ms;
+     margin-top:20px;
+}
+
+.storytwentytwo:hover {
+	transform: translate(0,-90px);
+   -webkit-transform: scale(7);
+    transform: scale(7);
+}
+
+/*TWENTYTHREE*/
+.storytwentythree{
+	font-size:0px;
+	width: 12px;
+	height: 12px;
+	opacity: 0.8;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	float: left;
+	margin-right: 3px;
+	-webkit-transition: -webkit-transform 1200ms;
+    transition: transform 1200ms;
+     margin-top:20px;
+}
+
+.storytwentythree:hover {
+	transform: translate(0,-90px);
+   -webkit-transform: scale(7);
+    transform: scale(7);
+}
+
+/*TWENTYFOUR*/
+.storytwentyfour{
+	font-size:0px;
+	width: 12px;
+	height: 12px;
+	opacity: 0.8;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	float: left;
+	margin-right: 3px;
+	-webkit-transition: -webkit-transform 1200ms;
+    transition: transform 1200ms;
+     margin-top:20px;
+}
+
+.storytwentyfour:hover {
+	transform: translate(0,-90px);
+   -webkit-transform: scale(7);
+    transform: scale(7);
+}
+
+/*DETOX*/
+.detox{
+	font-size:0px;
+	width: 12px;
+	height: 12px;
+	opacity: 0.8;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	float: left;
+	margin-right: 3px;
+	-webkit-transition: -webkit-transform 1200ms;
+    transition: transform 1200ms;
+     margin-top:20px;
+}
+
+.detox:hover {
+	transform: translate(0,-90px);
+   -webkit-transform: scale(7);
+    transform: scale(7);
+}
+
+/*blah*/
 
 .smallcircle {
 	width: 7px;
@@ -351,6 +768,39 @@ top:-10px;
 .largecircle:hover {
    -webkit-transform: scale(2.5);
     transform: scale(2.5);
+}
+
+
+
+
+/* dates on the dots*/
+.march13{
+	position:relative;
+	top:25%;
+	left:20%;
+	width:0px;
+	
+	
+}
+
+div:hover >.march13{
+	width:60%;
+	
+}
+
+
+.april13{
+	position:relative;
+	top:25%;
+	left:20%;
+	width:0px;
+	
+	
+}
+
+div:hover >.april13{
+	width:60%;
+	
 }
 
 
