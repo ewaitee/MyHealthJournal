@@ -71,16 +71,38 @@ top:-10px;
 
 .line3{
 	position:absolute;
-	left:1560px;
-	top:330px;
+	left:2155px;
+	top:770px;
+}
+.line4{
+	position:absolute;
+	left:1850px;
+	top:770px;
 }
 
 .line5{
 	position:absolute;
-	left:1305px;
-	top:315px;
+	left:1850px;
+	top:990px;
 }
 
+.line6{
+	position:absolute;
+	left:1855px;
+	top:990px;
+}
+
+.line7{
+	position:absolute;
+	left:1870px;
+	top:945px;
+}
+
+.line8{
+	position:absolute;
+	left:360px;
+	top:725px;
+}
 
 /* Containers */
 
@@ -292,9 +314,8 @@ top:-10px;
 
 
 .storyeight{
-	font-size:0px;
-	width: 12px;
-	height: 12px;
+	width: 35px;
+	height: 35px;
 	opacity: 0.8;
 	-moz-border-radius: 50px;
 	-webkit-border-radius: 50px;
@@ -303,15 +324,15 @@ top:-10px;
 	margin-right: 3px;
 	-webkit-transition: -webkit-transform 1200ms;
     transition: transform 1200ms;
-     margin-top:20px;
+    margin-top:0px;
+   
 }
 
 .storyeight:hover {
-	transform: translate(0,-90px);
-   -webkit-transform: scale(7);
-    transform: scale(7);
-    
+   -webkit-transform: scale(2.5);
+    transform: scale(2.5);
 }
+
 
 /*NINE*/
 .storynine{
@@ -631,9 +652,8 @@ top:-10px;
 
 /*TWENTYTHREE*/
 .storytwentythree{
-	font-size:0px;
-	width: 12px;
-	height: 12px;
+	width: 35px;
+	height: 35px;
 	opacity: 0.8;
 	-moz-border-radius: 50px;
 	-webkit-border-radius: 50px;
@@ -642,14 +662,16 @@ top:-10px;
 	margin-right: 3px;
 	-webkit-transition: -webkit-transform 1200ms;
     transition: transform 1200ms;
-     margin-top:20px;
+    margin-top:0px;
 }
 
 .storytwentythree:hover {
-	transform: translate(0,-90px);
-   -webkit-transform: scale(7);
-    transform: scale(7);
+	 -webkit-transform: scale(2.5);
+    transform: scale(2.5);
 }
+
+
+
 
 /*TWENTYFOUR*/
 .storytwentyfour{
