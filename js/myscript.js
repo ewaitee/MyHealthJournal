@@ -1,4 +1,23 @@
-/*$(document).ready(function(){
+$(document).ready(function(){
+
+
+	/*xray>naturopathic
+	$(".storyeight").hide();
+	$(".line8").hide();
+	$(".boxeight").hide();
+	$(".naturopathy").hide();
+	$(".storyseven").show();
+
+	$('.storyseven').click(function(){
+		$(".boxeight").addClass("zdex") .fadeToggle(1400);
+	});
+
+	$('.boxeight').click(function(){
+		$(".boxeight").removeClass("zdex");
+		$(".storyeight").fadeToggle(1400);
+		$(".naturopathy").delay(600).fadeToggle(1400);
+		$(".line8").delay(1400).fadeToggle(1400);
+	});
 
 	/*gastro>xray
 	$(".storyseven").hide();
@@ -128,7 +147,7 @@
 		$(".line2").delay(1400).fadeToggle(1400);
 	});
  
-}); */
+}); 
 
 
 

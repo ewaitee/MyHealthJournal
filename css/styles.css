@@ -273,6 +273,26 @@ top:-10px;
 	left:360px;
 	top:725px;
 }
+.line9{
+	position:absolute;
+	left:330px;
+	top:345px;
+}
+.line10{
+	position:absolute;
+	left:360px;
+	top:309px;
+}
+.line11{
+	position:absolute;
+	left:365px;
+	top:555px;
+}
+.line12{
+	position:absolute;
+	left:367px;
+	top:319px;
+}
 
 /* Containers */
 
@@ -643,6 +663,25 @@ top:-10px;
 	margin-top:40px;
 	font-size:12px;
 
+}
+
+.sleep {
+	/*background-color:red;*/
+	height:5px;
+	float:left;
+	position:absolute;
+	margin-top:40px;
+	font-size:12px;
+
+}
+
+.labtesting{
+	/*background-color:red;*/
+	width:150px;
+	float:left;
+	position:absolute;
+	margin-top:40px;
+	font-size:12px;
 }
 
 /*TEN*/
@@ -1024,7 +1063,7 @@ top:-10px;
    -webkit-transform: scale(7);
     transform: scale(7);
 }
-.detoxificication {
+.detoxification {
 	/*background-color:red;*/
 	height:5px;
 	float:left;
@@ -1130,14 +1169,14 @@ div:hover >.march13{
 .april13{
 	position:relative;
 	top:25%;
-	left:20%;
+	left:25%;
 	width:0px;
 	
 	
 }
 
 div:hover >.april13{
-	width:60%;
+	width:50%;
 	
 }
 
