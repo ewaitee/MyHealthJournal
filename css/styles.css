@@ -31,21 +31,191 @@ h2{
 	/*background-color:#99CCCC;*/
 	opacity:.8;
 	z-index:0;
-	left:900px;
-	top:30px;	
+	left:1500px;
+	top:300px;	
 }
 
-
-
-.stuf{
+.boxtwo {
 	position:absolute;
-	margin:auto;
-	top:20%;
+	width:300px;
+	height:600px;
+	/*background-color:#99CCCC;*/
+	opacity:.8;
+	z-index:0;
+	left:1500px;
+	top:300px;	
 }
 
 
+.boxthree{
+	position:absolute;
+	width:300px;
+	height:600px;
+	/*background-color:#99CCCC;*/
+	opacity:.8;
+	z-index:0;
+	left:1500px;
+	top:300px;	
+}
 
+.boxfour{
+	position:absolute;
+	width:300px;
+	height:600px;
+	/*background-color:#99CCCC;*/
+	opacity:.8;
+	z-index:0;
+	left:1500px;
+	top:300px;	
+}
 
+.boxfive{
+	position:absolute;
+	width:300px;
+	height:600px;
+	/*background-color:#99CCCC;*/
+	opacity:.8;
+	z-index:0;
+	left:1500px;
+	top:1000px;	
+}
+.boxsix{
+	position:absolute;
+	width:300px;
+	height:600px;
+	opacity:.8;
+	z-index:0;
+	left:1500px;
+	top:1000px;	
+}
+
+.boxseven{
+	position:absolute;
+	width:300px;
+	height:600px;
+	opacity:.8;
+	z-index:0;
+	left:1500px;
+	top:1000px;	
+}
+
+.boxeight{
+	position:absolute;
+	width:300px;
+	height:600px;
+	opacity:.8;
+	z-index:0;
+	left:1500px;
+	top:1000px;	
+}
+.boxnine{
+	position:absolute;
+	width:300px;
+	height:600px;
+	opacity:.8;
+	z-index:0;
+	left:1500px;
+	top:1000px;	
+}
+.boxten{
+	position:absolute;
+	width:300px;
+	height:600px;
+	opacity:.8;
+	z-index:0;
+	left:1500px;
+	top:1000px;	
+}
+.boxeleven{
+	position:absolute;
+	width:300px;
+	height:600px;
+	opacity:.8;
+	z-index:0;
+	left:1500px;
+	top:1000px;	
+}
+.boxtwelve{
+	position:absolute;
+	width:300px;
+	height:600px;
+	opacity:.8;
+	z-index:0;
+	left:1500px;
+	top:1000px;	
+}
+.boxthirteen{
+	position:absolute;
+	width:300px;
+	height:600px;
+	opacity:.8;
+	z-index:0;
+	left:1500px;
+	top:1000px;	
+}
+.boxfourteen{
+	position:absolute;
+	width:300px;
+	height:600px;
+	opacity:.8;
+	z-index:0;
+	left:1500px;
+	top:1000px;	
+}
+.boxfifteen{
+	position:absolute;
+	width:300px;
+	height:600px;
+	opacity:.8;
+	z-index:0;
+	left:1500px;
+	top:1000px;	
+}
+.boxsixteen{
+	position:absolute;
+	width:300px;
+	height:600px;
+	opacity:.8;
+	z-index:0;
+	left:1500px;
+	top:1000px;	
+}
+.boxseventeen{
+	position:absolute;
+	width:300px;
+	height:600px;
+	opacity:.8;
+	z-index:0;
+	left:1500px;
+	top:1000px;	
+}
+.boxeighteen{
+	position:absolute;
+	width:300px;
+	height:600px;
+	opacity:.8;
+	z-index:0;
+	left:1500px;
+	top:1000px;	
+}
+.boxnineteen{
+	position:absolute;
+	width:300px;
+	height:600px;
+	opacity:.8;
+	z-index:0;
+	left:1500px;
+	top:1000px;	
+}
+.boxtwenty{
+	position:absolute;
+	width:300px;
+	height:600px;
+	opacity:.8;
+	z-index:0;
+	left:1500px;
+	top:1000px;	
+}
 
 /* top section */
 
@@ -71,12 +241,12 @@ top:-10px;
 
 .line3{
 	position:absolute;
-	left:2155px;
+	left:2150px;
 	top:770px;
 }
 .line4{
 	position:absolute;
-	left:1850px;
+	left:1847px;
 	top:770px;
 }
 
@@ -181,14 +351,11 @@ top:-10px;
 
 
 
-.text {
-	/*background-color:red;*/
+.medicaldoctor {
 	width:150px;
 	float:left;
 	position:absolute;
 	margin-top:40px;
-	font-size:12px;
-
 }
 
 /*STORY TWO*/
@@ -215,7 +382,29 @@ top:-10px;
     
 }
 
-.texttwo {
+.storytwopt2{
+	font-size:0px;
+	width: 12px;
+	height: 12px;
+	opacity: 0.8;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	float: left;
+	margin-right: 3px;
+	-webkit-transition: -webkit-transform 1200ms;
+    transition: transform 1200ms;
+     margin-top:20px;
+}
+
+.storytwopt2:hover {
+	transform: translate(0,-90px);
+   -webkit-transform: scale(7);
+    transform: scale(7);
+    
+}
+
+.prescriptions{
 	/*background-color:red;*/
 	width:150px;
 	float:left;
@@ -224,6 +413,14 @@ top:-10px;
 	font-size:12px;
 }
 
+.bloodtesting{
+	/*background-color:red;*/
+	width:150px;
+	float:left;
+	position:absolute;
+	margin-top:40px;
+	font-size:12px;
+}
 
 /*THREE*/
 .storythree{
@@ -272,11 +469,70 @@ top:-10px;
     
 }
 
-
+.gastro{
+	/*background-color:red;*/
+	width:150px;
+	float:left;
+	position:absolute;
+	margin-top:40px;
+	font-size:12px;
+}
 
 /*FIVE*/
+.storyfive{
+	font-size:0px;
+	width: 12px;
+	height: 12px;
+	opacity: 0.8;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	float: left;
+	margin-right: 3px;
+	-webkit-transition: -webkit-transform 1200ms;
+    transition: transform 1200ms;
+     margin-top:20px;
+}
+
+.storyfive:hover {
+	transform: translate(0,-90px);
+   -webkit-transform: scale(7);
+    transform: scale(7);
+    
+}
 
 /*SIX*/
+.storysix{
+	font-size:0px;
+	width: 12px;
+	height: 12px;
+	opacity: 0.8;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	float: left;
+	margin-right: 3px;
+	-webkit-transition: -webkit-transform 1200ms;
+    transition: transform 1200ms;
+     margin-top:20px;
+}
+
+.storysix:hover {
+	transform: translate(0,-90px);
+   -webkit-transform: scale(7);
+    transform: scale(7);
+    
+}
+
+.nutritionist {
+	/*background-color:red;*/
+	width:150px;
+	float:left;
+	position:absolute;
+	margin-top:40px;
+	font-size:12px;
+
+}
 
 /*SEVEN*/
 
@@ -300,15 +556,16 @@ top:-10px;
     transform: scale(2.5);
 }
 
-.textseven {
+.xray {
 	/*background-color:red;*/
-	width:150px;
+	height:5px;
 	float:left;
 	position:absolute;
 	margin-top:40px;
 	font-size:12px;
 
 }
+
 
 /*EIGHT*/
 
@@ -321,7 +578,7 @@ top:-10px;
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
 	float: left;
-	margin-right: 3px;
+	margin-right: 0px;
 	-webkit-transition: -webkit-transform 1200ms;
     transition: transform 1200ms;
     margin-top:0px;
@@ -331,6 +588,16 @@ top:-10px;
 .storyeight:hover {
    -webkit-transform: scale(2.5);
     transform: scale(2.5);
+}
+
+.naturopathy {
+	/*background-color:red;*/
+	width:150px;
+	float:left;
+	position:absolute;
+	margin-top:40px;
+	font-size:12px;
+
 }
 
 
@@ -355,6 +622,27 @@ top:-10px;
    -webkit-transform: scale(7);
     transform: scale(7);
     
+
+}
+
+.herbalism {
+	/*background-color:red;*/
+	height:5px;
+	float:left;
+	position:absolute;
+	margin-top:40px;
+	font-size:12px;
+
+}
+
+.nutritionanddiet {
+	/*background-color:red;*/
+	height:5px;
+	float:left;
+	position:absolute;
+	margin-top:40px;
+	font-size:12px;
+
 }
 
 /*TEN*/
@@ -367,7 +655,7 @@ top:-10px;
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
 	float: left;
-	margin-right: 3px;
+	margin-right: 0px;
 	-webkit-transition: -webkit-transform 1200ms;
     transition: transform 1200ms;
      margin-top:20px;
@@ -390,7 +678,7 @@ top:-10px;
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
 	float: left;
-	margin-right: 3px;
+	margin-right: 0px;
 	-webkit-transition: -webkit-transform 1200ms;
     transition: transform 1200ms;
      margin-top:20px;
@@ -414,7 +702,7 @@ top:-10px;
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
 	float: left;
-	margin-right: 3px;
+	margin-right: 0px;
 	-webkit-transition: -webkit-transform 1200ms;
     transition: transform 1200ms;
      margin-top:20px;
@@ -462,7 +750,7 @@ top:-10px;
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
 	float: left;
-	margin-right: 3px;
+	margin-right: 0px;
 	-webkit-transition: -webkit-transform 1200ms;
     transition: transform 1200ms;
      margin-top:20px;
@@ -507,7 +795,7 @@ top:-10px;
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
 	float: left;
-	margin-right: 3px;
+	margin-right: 0px;
 	-webkit-transition: -webkit-transform 1200ms;
     transition: transform 1200ms;
      margin-top:20px;
@@ -573,7 +861,7 @@ top:-10px;
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
 	float: left;
-	margin-right: 3px;
+	margin-right: 0px;
 	-webkit-transition: -webkit-transform 1200ms;
     transition: transform 1200ms;
      margin-top:20px;
@@ -606,6 +894,16 @@ top:-10px;
    -webkit-transform: scale(7);
     transform: scale(7);
 }
+
+.herbalism {
+	/*background-color:red;*/
+	height:5px;
+	float:left;
+	position:absolute;
+	margin-top:40px;
+	font-size:12px;
+
+}
 /*TWENTYONE*/
 .storytwentyone{
 	font-size:0px;
@@ -616,7 +914,7 @@ top:-10px;
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
 	float: left;
-	margin-right: 3px;
+	margin-right: 0px;
 	-webkit-transition: -webkit-transform 1200ms;
     transition: transform 1200ms;
      margin-top:20px;
@@ -659,7 +957,7 @@ top:-10px;
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
 	float: left;
-	margin-right: 3px;
+	margin-right: 0px;
 	-webkit-transition: -webkit-transform 1200ms;
     transition: transform 1200ms;
     margin-top:0px;
@@ -695,6 +993,16 @@ top:-10px;
     transform: scale(7);
 }
 
+.immuno {
+	/*background-color:red;*/
+	height:5px;
+	float:left;
+	position:absolute;
+	margin-top:40px;
+	font-size:12px;
+
+}
+
 /*DETOX*/
 .detox{
 	font-size:0px;
@@ -716,7 +1024,15 @@ top:-10px;
    -webkit-transform: scale(7);
     transform: scale(7);
 }
+.detoxificication {
+	/*background-color:red;*/
+	height:5px;
+	float:left;
+	position:absolute;
+	margin-top:40px;
+	font-size:12px;
 
+}
 /*blah*/
 
 .smallcircle {
