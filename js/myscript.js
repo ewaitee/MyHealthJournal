@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
 
-	/*xray>naturopathic
+	/*xray>naturopathic*/
 	$(".storyeight").hide();
 	$(".line8").hide();
 	$(".boxeight").hide();
@@ -19,7 +19,7 @@ $(document).ready(function(){
 		$(".line8").delay(1400).fadeToggle(1400);
 	});
 
-	/*gastro>xray
+	/*gastro>xray*/
 	$(".storyseven").hide();
 	$(".line7").hide();
 	$(".boxseven").hide();
@@ -38,7 +38,7 @@ $(document).ready(function(){
 	
 	});
 
-	/*nutritionist>gastro>
+	/*nutritionist>gastro>*/
 	$(".storysix").hide();
 	$(".line6").hide();
 	$(".boxsix").hide();
@@ -55,7 +55,7 @@ $(document).ready(function(){
 	
 	});
 
-	/*gastro>nutritionist
+	/*gastro>nutritionist*/
 	$(".storyfive").hide();
 	$(".line5").hide();
 	$(".boxfive").hide();
@@ -74,7 +74,7 @@ $(document).ready(function(){
 	
 	});
 
-	/*second MD*> gastro
+	/*second MD*> gastro*/
 
 	$(".storyfour").hide();
 	$(".line4").hide();
@@ -95,7 +95,7 @@ $(document).ready(function(){
 	});
 	
 
-    /*Presciptions and blood testing > second MD
+    /*Presciptions and blood testing > second MD*/
 	$(".storythree").hide();
 	$(".line3").hide();
 	$(".boxtwo").hide();
@@ -122,7 +122,7 @@ $(document).ready(function(){
 	
 	});
 	
-	/*MD > Presciptions and blood testing
+	/*MD > Presciptions and blood testing*/
 	$(".storytwo").hide();
 	$(".storytwopt2").hide();
 	$(".prescriptions").hide();

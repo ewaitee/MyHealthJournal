@@ -31,8 +31,8 @@ h2{
 	/*background-color:#99CCCC;*/
 	opacity:.8;
 	z-index:0;
-	left:1500px;
-	top:300px;	
+	left:1600px;
+	top:650px;	
 }
 
 .boxtwo {
@@ -42,8 +42,8 @@ h2{
 	/*background-color:#99CCCC;*/
 	opacity:.8;
 	z-index:0;
-	left:1500px;
-	top:300px;	
+	left:1600px;
+	top:700px;	
 }
 
 
@@ -54,8 +54,8 @@ h2{
 	/*background-color:#99CCCC;*/
 	opacity:.8;
 	z-index:0;
-	left:1500px;
-	top:300px;	
+	left:1600px;
+	top:700px;		
 }
 
 .boxfour{
@@ -65,8 +65,8 @@ h2{
 	/*background-color:#99CCCC;*/
 	opacity:.8;
 	z-index:0;
-	left:1500px;
-	top:300px;	
+	left:1600px;
+	top:700px;	
 }
 
 .boxfive{
@@ -76,8 +76,8 @@ h2{
 	/*background-color:#99CCCC;*/
 	opacity:.8;
 	z-index:0;
-	left:1500px;
-	top:1000px;	
+	left:1800px;
+	top:1100px;	
 }
 .boxsix{
 	position:absolute;
@@ -85,8 +85,8 @@ h2{
 	height:600px;
 	opacity:.8;
 	z-index:0;
-	left:1500px;
-	top:1000px;	
+	left:2000px;
+	top:1100px;	
 }
 
 .boxseven{
@@ -95,8 +95,8 @@ h2{
 	height:600px;
 	opacity:.8;
 	z-index:0;
-	left:1500px;
-	top:1000px;	
+	left:2000px;
+	top:1100px;	
 }
 
 .boxeight{
@@ -105,8 +105,8 @@ h2{
 	height:600px;
 	opacity:.8;
 	z-index:0;
-	left:1500px;
-	top:1000px;	
+	left:1950px;
+	top:1100px;		
 }
 .boxnine{
 	position:absolute;
@@ -290,8 +290,8 @@ top:-10px;
 }
 .line12{
 	position:absolute;
-	left:367px;
-	top:319px;
+	left:385px;
+	top:335px;
 }
 
 /* Containers */
@@ -354,7 +354,7 @@ top:-10px;
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
 	float: left;
-	margin-right: 3px;
+	margin-right: 1px;
 	-webkit-transition: -webkit-transform 1200ms;
     transition: transform 1200ms;
     margin-top:0px;
@@ -365,8 +365,6 @@ top:-10px;
    -webkit-transform: scale(2.5);
     transform: scale(2.5);
 }
-
-
 
 
 
@@ -415,6 +413,7 @@ top:-10px;
 	-webkit-transition: -webkit-transform 1200ms;
     transition: transform 1200ms;
      margin-top:20px;
+    
 }
 
 .storytwopt2:hover {
@@ -423,6 +422,9 @@ top:-10px;
     transform: scale(7);
     
 }
+
+
+
 
 .prescriptions{
 	/*background-color:red;*/
@@ -444,24 +446,24 @@ top:-10px;
 
 /*THREE*/
 .storythree{
-	font-size:0px;
-	width: 12px;
-	height: 12px;
+		
+	width: 25px;
+	height: 25px;
 	opacity: 0.8;
 	-moz-border-radius: 50px;
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
 	float: left;
 	margin-right: 3px;
-	-webkit-transition: -webkit-transform 1200ms;
-    transition: transform 1200ms;
-     margin-top:20px;
+	margin-top:10px;
+	-webkit-transition: -webkit-transform 1050ms;
+    transition: transform 1050ms;
+    
 }
 
 .storythree:hover {
-	transform: translate(0,-90px);
-   -webkit-transform: scale(7);
-    transform: scale(7);
+	-webkit-transform: scale(3.0);
+    transform: scale(3.0);
 }
 
 
@@ -469,25 +471,27 @@ top:-10px;
 
 .storyfour{
 	font-size:0px;
-	width: 12px;
-	height: 12px;
+	width: 25px;
+	height: 25px;
 	opacity: 0.8;
 	-moz-border-radius: 50px;
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
 	float: left;
-	margin-right: 3px;
-	-webkit-transition: -webkit-transform 1200ms;
-    transition: transform 1200ms;
-     margin-top:20px;
+	margin-left: -5px;
+	
+	margin-top:10px;
+	-webkit-transition: -webkit-transform 1050ms;
+    transition: transform 1050ms;
 }
 
 .storyfour:hover {
-	transform: translate(0,-90px);
-   -webkit-transform: scale(7);
-    transform: scale(7);
+	-webkit-transform: scale(3.0);
+    transform: scale(3.0);
     
 }
+
+
 
 .gastro{
 	/*background-color:red;*/
@@ -500,30 +504,30 @@ top:-10px;
 
 /*FIVE*/
 .storyfive{
-	font-size:0px;
-	width: 12px;
-	height: 12px;
+	width: 35px;
+	height: 35px;
 	opacity: 0.8;
 	-moz-border-radius: 50px;
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
 	float: left;
-	margin-right: 3px;
+	margin-right: 1px;
 	-webkit-transition: -webkit-transform 1200ms;
     transition: transform 1200ms;
-     margin-top:20px;
+    margin-top:0px;
 }
 
 .storyfive:hover {
-	transform: translate(0,-90px);
-   -webkit-transform: scale(7);
-    transform: scale(7);
+	 -webkit-transform: scale(2.5);
+    transform: scale(2.5);
     
 }
 
+
+
 /*SIX*/
 .storysix{
-	font-size:0px;
+	
 	width: 12px;
 	height: 12px;
 	opacity: 0.8;
@@ -1171,8 +1175,6 @@ div:hover >.march13{
 	top:25%;
 	left:25%;
 	width:0px;
-	
-	
 }
 
 div:hover >.april13{
